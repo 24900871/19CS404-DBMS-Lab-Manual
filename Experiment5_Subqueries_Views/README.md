@@ -1,6 +1,6 @@
 # Experiment 5: Subqueries and Views
-## NAME: UDHAYA PRAKASH V
-## REG NO: 212224240177
+## NAME: JOTHIMANI P
+## REG NO: 212224230108
 ## AIM
 To study and implement subqueries and views.
 
